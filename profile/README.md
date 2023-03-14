@@ -20,3 +20,8 @@
 <a href="https://twitter.com/shiftcodeeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiftcodeeu" height="30" width="40" /></a>
 </p>
 -->
+
+<hr />
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShiftCodeEU&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiftCodeEU&layout=compact&theme=github_dark&langs_count=6&hide_border=true)
